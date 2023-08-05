@@ -28,10 +28,10 @@ This project was developed during a workshop organized by the Student Web Commit
 ## Getting Started
 
 1. Clone the repository.
-2. 
-3. Open the index.html file in your preferred web browser.
+  
+2. Open the index.html file in your preferred web browser.
 
-4. Start exploring and searching for movies with their ratings.
+3. Start exploring and searching for movies with their ratings.
 
 ## Contributing
 
